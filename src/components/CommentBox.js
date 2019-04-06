@@ -10,6 +10,7 @@ class CommentBox extends Component {
 
     handleSubmit = event => {
         event.preventDefault(); 
+
         // TODO - Call an action creator
         //And save the comment
         this .setState({ comment: '' })
