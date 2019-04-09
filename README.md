@@ -29,5 +29,5 @@ a0a2c9a : updated readme
 ## Branch HOC
 Branch : https://github.com/MuteBard/ReactRecap/tree/hoc
 
-- current : --
+- current : routes part 1
 - 4dfa513 : create hoc branch
