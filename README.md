@@ -27,4 +27,4 @@ a0a2c9a : updated readme
 - b200719 : Initial commit from Create React App
 
 ## Branch HOC
-Branch : TBA
+- current : create hoc branch
