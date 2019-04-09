@@ -29,7 +29,13 @@ a0a2c9a : updated readme
 ## Branch HOC
 Branch : https://github.com/MuteBard/ReactRecap/tree/hoc
 
-- current : branch HOC complete 
+### routes part 2
+https://github.com/MuteBard/ReactRecap/commit/a9d029e9e5197cba004f2c5120243653d25838b3
+
+### toggle auth action
+https://github.com/MuteBard/ReactRecap/commit/a9d029e9e5197cba004f2c5120243653d25838b3
+
+- current : branch HOC complete, added HOC requireAuth
 - a9d029e : toggle auth action
 - c165900 : routes part 2
 - fa697c6 : boilerplate for auth reducer
