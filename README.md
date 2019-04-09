@@ -27,4 +27,7 @@ a0a2c9a : updated readme
 - b200719 : Initial commit from Create React App
 
 ## Branch HOC
-- current : create hoc branch
+Branch : https://github.com/MuteBard/ReactRecap/tree/hoc
+
+- current : --
+- 4dfa513 : create hoc branch
