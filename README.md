@@ -42,7 +42,7 @@ https://github.com/MuteBard/ReactRecap/commit/a9d029e9e5197cba004f2c5120243653d2
 - 5b8a79c : routes part 1
 - 4dfa513 : create hoc branch
 
-## Middlewares
+## Branch Middlewares
 Branch : https://github.com/MuteBard/ReactRecap/tree/middlewares
 
 - current : added validation of reducer state datatypes by creating middleware using TV4 and JSON Schemas
